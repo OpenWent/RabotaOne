@@ -6,3 +6,5 @@ import asyncio
 import os
 for i in range(1,999):
     print(i)
+print("Hello world!")
+print("NO hello")
