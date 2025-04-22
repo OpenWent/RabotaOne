@@ -1,2 +1,5 @@
 import random
-print("Hello world!")
+r = random.randint(0,10)
+for i in range(0,r):
+    print("*" *  i)
+print(r)
